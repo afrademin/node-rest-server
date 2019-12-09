@@ -1,14 +1,14 @@
 user: strider
-pass: fMbo537iypq4oRVz
+pass: kHKAwnz5gCr7Okug
 
 
 mongodb url
 
 
 
-mongodb+srv://strider:2v3tQJuzsrm9qloV@cluster0-tyauv.mongodb.net/cafe
+mongodb+srv://strider:kHKAwnz5gCr7Okug@cluster0-tyauv.mongodb.net/cafe
 
 
 
 
-mongodb+srv://strider:<password>@cluster0-tyauv.mongodb.net/test
+mongodb+srv://strider:<password>@cluster0-tyauv.mongodb.net/cafe
